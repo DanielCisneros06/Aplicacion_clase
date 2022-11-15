@@ -1,1 +1,2 @@
-# Aplicacion_clase
+#Proyecto de programacion
+Juntos por el Diez
